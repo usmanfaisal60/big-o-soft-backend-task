@@ -1,0 +1,4 @@
+export enum USER_ROLES {
+    USER = "USER",
+    HIRING_MANAGER = "HIRING_MANAGER"
+}
